@@ -1,0 +1,39 @@
+Minimal Viable Product - (MVP)
+
+	Ø Login Page 
+		○ Tittle 
+		○ Animated Icon
+		○ Navbar
+			§ Help
+		○ Create User
+			§ First Name
+			§ Last Name
+		○ Create Game
+			§ Category
+			§ Difficulty - Flashing Phrases/Jumble Letters
+			§ Set Game time
+		○ Start Button
+			
+	Ø Game Page
+		○ Display Info
+			§ Score Board - Let the user know what their running score is for the current game.
+			§ Timer - Display to the user time left to answer all phrases.
+			§ Category - Display the current category being played
+			§ Time period - Give the user an option to choose a time period to play. Questions will be based on this time period.   
+			§ View problem 
+				□ Display Phrase - Display to the user a jumbled phrase to answer one at a time. If the answers is correct clear the phrase and present a new phrase. If the answer is incorrect clear the and display the same phrase. If the phrase is skipped clear phrase and display next phrase in the list. 
+			§ User Input
+				□ Field per word in phrase
+				□ Field Response - Green / Red
+				□ Stop / Reset - Buttons
+				□ Skip Phrase - Allow a user to skip to the next phrase in the list. Set the number of skips the user can have in the game.
+
+	Ø Results Page
+		○ Display Results
+			§ Avg Time per answer
+			§ Ratio: Answers - Correct / Incorrect
+			§ Ratio: Category 
+
+Next Meeting: Saturday Nov. 5th @ 8:30 AM
+	Ø Mockup for Game page
+	Ø Research history api's

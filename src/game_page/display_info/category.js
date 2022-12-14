@@ -1,0 +1,1 @@
+//Display the current category being played.
